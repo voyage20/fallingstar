@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+html, body {
+  margin: 0;
+  padding: 0;
+  color: white;
+  background-color:  black;
+  font-family:'Lato';
+}
+
+canvas {
+  margin: auto; /* add the margin to center your canvas*/
+  display: block;
+}
+
+h1{
+  text-align: center; /* Some CSS to center the text */
+}
+
+p{
+  text-align: center;
+}
+
